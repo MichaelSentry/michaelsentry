@@ -6,6 +6,8 @@ Welcome to my Github profile.
 
 [![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=0D1117&layout=compact&hide_title=false)](https://github.com/michaelsentry/)
 
+- 🔭 I’m currently working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
+
 <!--
 **MichaelSentry/michaelsentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
