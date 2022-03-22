@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.
 
-
+![NinjaSentry BattleStation](img/ninjasentry-background-battlestation-xs.jpg)
 
 <!--
 **MichaelSentry/michaelsentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
