@@ -4,7 +4,7 @@ Welcome to my Github profile.
 
 ![NinjaSentry BattleStation](img/ninjasentry-background-battlestation-xs.jpg)
 
-[![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=0D1117&layout=compact&hide_title=false)](https://github.com/michaelsentry/)
+[![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/michaelsentry/)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&layout=compact)
 
