@@ -6,6 +6,8 @@ Welcome to my Github profile.
 
 [![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=0D1117&layout=compact&hide_title=false)](https://github.com/michaelsentry/)
 
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&layout=compact)
+
 - 🔭 I’m currently working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
 - 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
 
