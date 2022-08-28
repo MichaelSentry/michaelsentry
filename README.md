@@ -4,6 +4,10 @@ Welcome to my Github profile.
 
 ![NinjaSentry BattleStation](img/ninjasentry-background-battlestation-xs.jpg)
 
+- ⚡ I'm currently building the ninjasentry.com website.
+- 🔭 I’m also working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
+- 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
+
 <div class="container">
 
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20" />
@@ -12,11 +16,8 @@ Welcome to my Github profile.
 
 </div>
 
-- ⚡ I'm working on ninjasentry.com
-- 🔭 I’m also working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
-- 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
-
 <p align="center">
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
 </p>
 
