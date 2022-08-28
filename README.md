@@ -10,20 +10,20 @@ Welcome to my Github profile.
 
 
 ### Built With
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="100" />
 
 
 <div class="container">
 
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide_border=true" />
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact&langs_count=4" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact&langs_count=4&hide_border=true" /></div>
 
 </div>
 
