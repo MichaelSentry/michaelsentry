@@ -9,7 +9,21 @@ Welcome to my Github profile.
 - 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
 
 
-#### :jack_o_lantern: Built With :
+<div class="container">
+
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide_border=true" />
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact&langs_count=4&hide_border=true" /></div>
+
+</div>
+
+<p align="center">
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
+</p>
+
+
+#### :jack_o_lantern: Built With &trade; :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="65" />
@@ -22,19 +36,6 @@ Welcome to my Github profile.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="65" />
-</p>
-
-<div class="container">
-
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide_border=true" />
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact&langs_count=4&hide_border=true" /></div>
-
-</div>
-
-<p align="center">
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
 </p>
 
 <!--
