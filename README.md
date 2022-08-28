@@ -9,7 +9,7 @@ Welcome to my Github profile.
 - 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
 
 
-### Built With
+#### Built With :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="75" />
@@ -19,6 +19,7 @@ Welcome to my Github profile.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="75" />
 </p>
 
 <div class="container">
