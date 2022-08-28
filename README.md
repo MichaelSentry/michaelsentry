@@ -8,6 +8,17 @@ Welcome to my Github profile.
 - 🔭 I’m also working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
 - 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
 
+
+### Built With
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
 <div class="container">
 
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michaelsentry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20" />
