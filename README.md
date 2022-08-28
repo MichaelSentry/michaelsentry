@@ -16,7 +16,7 @@ Welcome to my Github profile.
 - 🔭 I’m also working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
 - 📫 You can find me on Twitter [@NinjaSentry](https://twitter.com/NinjaSentry) & [@SentryXSI](https://twitter.com/SentryXSI)
 
-<p> align="center"
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
 </p>
 
