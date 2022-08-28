@@ -8,9 +8,9 @@ Welcome to my Github profile.
 
 [![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/michaelsentry/)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&layout=compact)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github_dark"/>
 
 </p>
 
