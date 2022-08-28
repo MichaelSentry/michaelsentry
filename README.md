@@ -10,7 +10,7 @@ Welcome to my Github profile.
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&theme=github_dark&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
 
 </p>
 
