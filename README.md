@@ -23,7 +23,7 @@ Welcome to my Github profile.
 </p>
 
 
-#### :jack_o_lantern: Built With &trade; :
+#### :jack_o_lantern: Built With &reg; :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="65" />
