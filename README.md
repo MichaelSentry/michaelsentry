@@ -6,9 +6,12 @@ Welcome to my Github profile.
 
 <p align="center">
 
-[![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/michaelsentry/)
+[![MichaelSentry github stats](https://github-readme-stats.vercel.app/api?username=michaelsentry&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/michaelsentry/)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsentry&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=dracula"/>
+
 </p>
 
 - 🔭 I’m currently working on the NinjaSentry BattleStation Server and NinjaSentry Fortified applications.
