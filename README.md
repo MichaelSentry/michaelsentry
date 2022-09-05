@@ -22,6 +22,11 @@ Welcome to my Github profile.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsentry&theme=github-dark-blue"/>
 </p>
 
+#### Focus
+
+
+    "Make Progress, Not Excuses."
+
 
 #### :jack_o_lantern: Built With &reg; :
 
